@@ -5,4 +5,4 @@ El presente trabajo está realizado por los alumnos para la entrega del la quint
  * Mesías Sanchez Marco............................................20170055E
  * Zambrano Altamirano, Leonardo Marcelo......20170186B
  
- Para poder ejecutar el codigo, es necesario NetBeans y ejecutar el proyecto "PC5/Emulador"
+ Para poder ejecutar el codigo, es necesario NetBeans y ejecutar el proyecto dentro de la carpeta "PC5 Final Grupo 1"
